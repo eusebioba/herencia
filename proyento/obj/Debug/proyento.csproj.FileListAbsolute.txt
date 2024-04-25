@@ -1,0 +1,10 @@
+C:\Users\Licenciaturas\Downloads\proyento\bin\Debug\proyento.exe.config
+C:\Users\Licenciaturas\Downloads\proyento\bin\Debug\proyento.exe
+C:\Users\Licenciaturas\Downloads\proyento\bin\Debug\proyento.pdb
+C:\Users\Licenciaturas\Downloads\proyento\obj\Debug\proyento.csproj.AssemblyReference.cache
+C:\Users\Licenciaturas\Downloads\proyento\obj\Debug\proyento.Form1.resources
+C:\Users\Licenciaturas\Downloads\proyento\obj\Debug\proyento.Properties.Resources.resources
+C:\Users\Licenciaturas\Downloads\proyento\obj\Debug\proyento.csproj.GenerateResource.cache
+C:\Users\Licenciaturas\Downloads\proyento\obj\Debug\proyento.csproj.CoreCompileInputs.cache
+C:\Users\Licenciaturas\Downloads\proyento\obj\Debug\proyento.exe
+C:\Users\Licenciaturas\Downloads\proyento\obj\Debug\proyento.pdb
